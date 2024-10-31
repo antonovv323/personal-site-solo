@@ -15,14 +15,12 @@ body {
     border: 4px solid #ad3838;
 }
 
-
-
 a {
     color: #ad3838;
 }
 
 #email-input {
-    padding: 4px 0;
+    padding: 4px 0 4px 8px;
     margin-bottom: 8px;
     background-color: #75b855;
     border: 3px solid #ad3838;
@@ -35,7 +33,6 @@ a {
 #email-input::placeholder {
     font-family: "Bangers", serif;
     color: #ad3838;
-    padding-left: 8px;
 }
 
 button {
